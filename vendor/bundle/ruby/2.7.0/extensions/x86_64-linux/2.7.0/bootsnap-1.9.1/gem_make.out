@@ -1,0 +1,15 @@
+current directory: /home/vlingala/Desktop/Rb_Programs/ALPHA_BLOG/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.1/ext/bootsnap
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20211018-603675-1s8wqth.rb extconf.rb
+creating Makefile
+
+current directory: /home/vlingala/Desktop/Rb_Programs/ALPHA_BLOG/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.1/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/vlingala/Desktop/Rb_Programs/ALPHA_BLOG/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.1/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/vlingala/Desktop/Rb_Programs/ALPHA_BLOG/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.1/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20211018-603675-ghesdh/bootsnap
